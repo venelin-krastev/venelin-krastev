@@ -1,22 +1,22 @@
-# Venelin Krustev
+# Venelin Krastev
 
-QA Automation Engineer | Selenium · C# · NUnit · RestSharp | Sofia, Bulgaria
+**Junior QA Automation Engineer** | Selenium · C# · NUnit · RestSharp | Sofia, Bulgaria
 
 ---
 
 ## About
 
 Career changer from finance with a strong analytical background.
-Currently building hands-on expertise in test automation — writing clean, maintainable test frameworks using industry-standard tools and patterns.
+Built hands-on expertise in test automation — writing clean, maintainable test frameworks using industry-standard tools and patterns.
 
 ---
 
 ## Tech Stack
 
 **Test Automation:** Selenium WebDriver · RestSharp · NUnit · Page Object Model  
-**Languages:** C# · SQL (basics)  
-**Tools:** Git · GitHub · Visual Studio · Postman  
-**Currently learning:** CI/CD (GitHub Actions) · SpecFlow/BDD  
+**Languages:** C# · .NET 10  
+**Tools:** Git · GitHub Actions · Visual Studio · Postman  
+**CI/CD:** GitHub Actions — headless Chrome, automated test runs on every push  
 
 ---
 
@@ -24,11 +24,11 @@ Currently building hands-on expertise in test automation — writing clean, main
 
 | Project | Description | Stack |
 |---|---|---|
-| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite — 11 Page Objects covering Login, Alerts, Checkboxes, Dropdowns, IFrames, Windows, Hover, DragAndDrop, FileUpload, ContextMenu and Dynamic Loading | C# · Selenium · NUnit · POM |
-| [restful-booker-api-tests](https://github.com/Krast3v/restful-booker-api-tests) | Full CRUD API test suite — 23 tests covering GET, POST, PUT, PATCH, DELETE and Auth with token-based authentication | C# · RestSharp · NUnit |
+| [web-ui-automation-csharp](https://github.com/venelin-krastev/web-ui-automation-csharp) | Selenium WebDriver test suite — 33 tests, 11 Page Objects, BaseTest abstraction, screenshot on failure, GitHub Actions CI | C# · Selenium · NUnit · POM |
+| [restful-booker-api-tests](https://github.com/venelin-krastev/restful-booker-api-tests) | Full CRUD API test suite — GET, POST, PUT, PATCH, DELETE and token-based Auth | C# · RestSharp · NUnit |
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krustev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krustev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krastev)
