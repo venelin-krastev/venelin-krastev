@@ -29,6 +29,17 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ---
 
+## QA Knowledge
+
+**Test Design:** Equivalence Partitioning · Boundary Value Analysis · Pairwise Testing  
+**Test Types:** Smoke · Regression · Retesting · Exploratory · E2E · Integration  
+**Bug Reporting:** Severity vs Priority · Reproducible steps · Bug lifecycle  
+**ISTQB Concepts:** Test levels (Unit/Integration/System/Acceptance) · Static vs Dynamic · Verification vs Validation · Test Pyramid  
+**SQL for QA:** SELECT · JOIN · GROUP BY · HAVING · NULL checks · Data integrity verification  
+**Tools:** Postman · GitHub Actions CI/CD · Visual Studio
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krastev)
