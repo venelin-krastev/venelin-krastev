@@ -36,6 +36,7 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 **Bug Reporting:** Severity vs Priority · Reproducible steps · Bug lifecycle  
 **ISTQB Concepts:** Test levels (Unit/Integration/System/Acceptance) · Static vs Dynamic · Verification vs Validation · Test Pyramid  
 **SQL for QA:** SELECT · JOIN · GROUP BY · HAVING · NULL checks · Data integrity verification  
+**BDD:** SpecFlow · Gherkin · Given/When/Then scenarios  
 **Tools:** Postman · GitHub Actions CI/CD · Visual Studio
 
 ---
