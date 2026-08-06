@@ -26,7 +26,7 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 |---|---|---|
 | [TheInternetTests](https://github.com/venelin-krastev/TheInternetTests) | Selenium WebDriver test suite — 38 tests, 10 Page Objects, BaseTest with screenshot on failure, Actions class (hover, drag & drop), GitHub Actions CI | C# · Selenium · NUnit · POM |
 | [restful-booker-api-tests](https://github.com/venelin-krastev/restful-booker-api-tests) | Full CRUD API test suite — 30 tests, GET/POST/PUT/PATCH/DELETE, token-based Auth, parameterized filter tests, schema validation, Postman collection | C# · RestSharp · NUnit |
-| [SpecFlowDemo](https://github.com/venelin-krastev/SpecFlowDemo) | BDD test suite — 3 scenarios, Scenario Outline, Page Object Model, Given/When/Then, GitHub Actions CI | C# · SpecFlow · Selenium · Gherkin |
+| [SpecFlowDemo](https://github.com/venelin-krastev/SpecFlowDemo) | BDD test suite — 5 scenarios, Scenario Outline, shared steps, Page Object Model, Given/When/Then, GitHub Actions CI | C# · SpecFlow · Selenium · Gherkin |
 
 ---
 
