@@ -25,7 +25,7 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 | Project | Description | Stack |
 |---|---|---|
 | [web-ui-automation-csharp](https://github.com/venelin-krastev/web-ui-automation-csharp) | Selenium WebDriver test suite — 33 tests, 11 Page Objects, BaseTest with screenshot on failure, Actions class (hover, drag & drop, right-click), GitHub Actions CI | C# · Selenium · NUnit · POM |
-| [restful-booker-api-tests](https://github.com/venelin-krastev/restful-booker-api-tests) | Full CRUD API test suite — 30 tests, GET/POST/PUT/PATCH/DELETE, token-based Auth, parameterized filter tests, schema validation, Postman collection | C# · RestSharp · NUnit |
+| [RestfulBookerTests](https://github.com/venelin-krastev/RestfulBookerTests) | Advanced API test suite — 32 tests, BaseApiTest abstraction, full CRUD, token auth, schema validation (JTokenType), Stopwatch performance tests, parameterized [TestCase] scenarios | C# · RestSharp · NUnit |
 | [SpecFlowDemo](https://github.com/venelin-krastev/SpecFlowDemo) | BDD test suite — 5 scenarios, Scenario Outline, shared steps, Page Object Model, Given/When/Then, GitHub Actions CI | C# · SpecFlow · Selenium · Gherkin |
 
 ---
