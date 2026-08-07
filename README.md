@@ -44,4 +44,4 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krastev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/krastevvenelin)
