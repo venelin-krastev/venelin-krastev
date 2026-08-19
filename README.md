@@ -43,6 +43,14 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ---
 
+## Currently Learning
+
+- **Java** — transitioning automation skills to the JVM ecosystem (TestNG, Maven)
+- **Test Case Design** — deepening BVA, Equivalence Partitioning, and decision table techniques
+- **CI/CD** — expanding GitHub Actions pipelines with artifact uploads and multi-job workflows
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/krastevvenelin)
