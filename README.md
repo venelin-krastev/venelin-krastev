@@ -45,9 +45,9 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ## Currently Learning
 
-- **Java** — transitioning automation skills to the JVM ecosystem (TestNG, Maven)
+- **Exception Handling in Selenium** — robust wait strategies with `StaleElementReferenceException` catch inside `wait.Until` lambdas for DOM-heavy pages
+- **API Test Architecture** — `BaseApiTest` abstraction, `[OneTimeSetUp]` lifecycle, schema validation with `JTokenType`
 - **Test Case Design** — deepening BVA, Equivalence Partitioning, and decision table techniques
-- **CI/CD** — expanding GitHub Actions pipelines with artifact uploads and multi-job workflows
 
 ---
 
