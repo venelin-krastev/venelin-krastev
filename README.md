@@ -45,8 +45,8 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ## Currently Learning
 
-- **Exception Handling in Selenium** — robust wait strategies with `StaleElementReferenceException` catch inside `wait.Until` lambdas for DOM-heavy pages
-- **API Test Architecture** — `BaseApiTest` abstraction, `[OneTimeSetUp]` lifecycle, schema validation with `JTokenType`
+- **JMeter fundamentals** — self-study for performance/load testing: test plan structure, parameterization, ramp-up scenarios
+- **QA Engineering Programme (SoftUni)** — formal QA theory alongside hands-on project work
 - **Test Case Design** — deepening BVA, Equivalence Partitioning, and decision table techniques
 
 ---
