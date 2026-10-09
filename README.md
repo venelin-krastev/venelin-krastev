@@ -7,7 +7,8 @@
 ## About
 
 Career changer from finance with a strong analytical background.
-Built hands-on expertise in test automation — writing clean, maintainable test frameworks using industry-standard tools and patterns.
+Previously QA Tester at SocialScore — exploratory testing, manual test cases, Postman API verification, Jira defect tracking on a live product.
+Building hands-on expertise in test automation — writing clean, maintainable test frameworks using industry-standard tools and patterns.
 
 ---
 
@@ -25,7 +26,7 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 | Project | Description | Stack |
 |---|---|---|
 | [web-ui-automation-csharp](https://github.com/venelin-krastev/web-ui-automation-csharp) | Selenium WebDriver test suite — 33 tests, 11 Page Objects, BaseTest with screenshot on failure, Actions class (hover, drag & drop, right-click), GitHub Actions CI | C# · Selenium · NUnit · POM |
-| [RestfulBookerTests](https://github.com/venelin-krastev/RestfulBookerTests) | Advanced API test suite — 32 tests, BaseApiTest abstraction, full CRUD, token auth, schema validation (JTokenType), Stopwatch performance tests, parameterized [TestCase] scenarios | C# · RestSharp · NUnit |
+| [RestfulBookerTests](https://github.com/venelin-krastev/RestfulBookerTests) | Advanced API test suite — 48 tests, BaseApiTest abstraction, full CRUD, token auth, schema validation (JTokenType), Is.AnyOf() for non-deterministic responses, Regex ID extraction, Stopwatch performance tests, parameterized [TestCase] scenarios | C# · RestSharp · NUnit |
 | [SpecFlowDemo](https://github.com/venelin-krastev/SpecFlowDemo) | BDD test suite — 5 scenarios, Scenario Outline, shared steps, Page Object Model, Given/When/Then, GitHub Actions CI | C# · SpecFlow · Selenium · Gherkin |
 | [AutomationExerciseTests](https://github.com/venelin-krastev/AutomationExerciseTests) | E2E test suite for automationexercise.com — 9 tests across 2 features (registration + login), multi-step POM, AssemblySetup shared test data, dynamic emails, SelectElement, GitHub Actions CI | C# · Selenium · NUnit · POM |
 
@@ -53,4 +54,4 @@ Built hands-on expertise in test automation — writing clean, maintainable test
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/krastevvenelin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krastev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krustev-09825241a/)
